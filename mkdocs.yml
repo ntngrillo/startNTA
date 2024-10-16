@@ -1,6 +1,48 @@
-site_name: My MkDocs Site
+site_name: Fab Academy 2019 - Antonio Grillo
+site_description: My Fabacademy 2019 site
+
+site_author: Antonio Grillo
+docs_dir: docs
+site_dir: _site
+copyright: Creative Commons Attribution Non Commercial
 theme:
+  logo: 'images/logo.svg' #Here I've changed the .svg logo
+  favicon: 'images/favicon.ico' #and Add a new favicon
   name: material
-nav:
-  - Home: index.md
-  - About: about.md
+
+  palette:
+    primary: "yellow" #Here I've changed the primary color
+    accent: "indigo"
+  font:
+    false
+
+  feature:
+    tabs: true
+extra:
+  social: #Here I've added my social channel
+    - type: "github"
+      link: "https://github.com/antoniogrillo"
+    - type: "twitter"
+      link: "https://twitter.com/ntngrillo"
+    - type: "linkedin"
+      link: "https://www.linkedin.com/in/grilloantonio"
+    - type: "instagram"
+      link: "https://www.instagram.com/ntngrillo80/"
+
+extra_css:
+  - 'stylesheets/extra.css'
+
+markdown_extensions:
+  - extra
+  - smarty
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+  - pymdownx.extra
+  - pymdownx.progressbar
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  
+
