@@ -34,8 +34,8 @@ theme:
 
 plugins:
   - search
-  - tags:
-      tags_file: tags.md
+  #- tags:
+  #    tags_file: tags.md
   - blog
 
 markdown_extensions:
