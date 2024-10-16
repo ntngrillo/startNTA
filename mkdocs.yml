@@ -49,12 +49,12 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Code Docs:
-    - Java: coding/my-first-java-file.md
-  - About:
-    - Current Projects: about/projects.md
-    - About Me: about/about.md
-    - Childhood: about/childhood.md
-  - Tags: tags.md
-  - Blog:
-    - blog/index.md
+  #- Code Docs:
+   # - Java: coding/my-first-java-file.md
+  #- About:
+   # - Current Projects: about/projects.md
+    #- About Me: about/about.md
+    #- Childhood: about/childhood.md
+  #- Tags: tags.md
+  #- Blog:
+   # - blog/index.md
