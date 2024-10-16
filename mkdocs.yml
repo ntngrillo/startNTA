@@ -3,7 +3,7 @@ site_description: My Fabacademy 2019 site
 
 site_author: Antonio Grillo
 docs_dir: docs
-site_dir: _site
+#site_dir: _site
 copyright: Creative Commons Attribution Non Commercial
 theme:
   logo: 'images/logo.svg' #Here I've changed the .svg logo
