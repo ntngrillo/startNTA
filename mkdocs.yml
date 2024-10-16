@@ -6,8 +6,8 @@ docs_dir: docs
 #site_dir: _site
 copyright: Creative Commons Attribution Non Commercial
 theme:
-  logo: 'images/logo.svg' #Here I've changed the .svg logo
-  favicon: 'images/favicon.ico' #and Add a new favicon
+  #logo: 'images/logo.svg' #Here I've changed the .svg logo
+  #favicon: 'images/favicon.ico' #and Add a new favicon
   name: material
 
   palette:
