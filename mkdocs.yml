@@ -1,5 +1,5 @@
-site_name: My Doc Site
-site_url: https://mydomain.org/mysite
+site_name: Sistemi Interattivi - NTA
+site_url: https://ntngrillo.github.io/test/
 theme:
   name: material
   palette: 
@@ -33,7 +33,8 @@ theme:
     - content.code.copy
 
 plugins:
-  - search
+  - search:
+      lang: it
   #- tags:
   #    tags_file: tags.md
   - blog
