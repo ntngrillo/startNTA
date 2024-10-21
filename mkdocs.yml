@@ -1,5 +1,9 @@
 site_name: Sistemi Interattivi - NTA
 site_url: https://ntngrillo.github.io/test/
+site_description: My Fabacademy 2019 site
+
+site_author: Antonio Grillo
+
 theme:
   name: material
   palette: 
@@ -16,6 +20,7 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   features:
+    - header.autohide
     - navigation.instant
     - navigation.instant.progress
     - navigation.instant.preview
@@ -31,15 +36,27 @@ theme:
     - search.highlight
     - search.share
     - content.code.copy
+# extra:
+#   social: #Here I've added my social channel
+#     - type: "github"
+#       link: "https://github.com/antoniogrillo"
+#     - type: "twitter"
+#       link: "https://twitter.com/ntngrillo"
+#     - type: "linkedin"
+#       link: "https://www.linkedin.com/in/grilloantonio"
+#     - type: "instagram"
+#       link: "https://www.instagram.com/ntngrillo80/"
 
 plugins:
   - search:
-      lang: it
-  #- tags:
-  #    tags_file: tags.md
-  - blog
+  # - tags:
+  #     tags_file: tags.md
+  - blog:
 
 markdown_extensions:
+  - extra
+  - smarty
+  - admonition
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
@@ -47,15 +64,19 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+  - toc:
+      title: contenu
+      permalink: true
+      baselevel: 2
 
-nav:
-  - Home: index.md
-  #- Code Docs:
-   # - Java: coding/my-first-java-file.md
-  #- About:
-   # - Current Projects: about/projects.md
-    #- About Me: about/about.md
-    #- Childhood: about/childhood.md
-  #- Tags: tags.md
-  #- Blog:
-   # - blog/index.md
+# nav:
+#   - Home: index.md
+#   #- Code Docs:
+#    # - Java: coding/my-first-java-file.md
+#   #- About:
+#    # - Current Projects: about/projects.md
+#     #- About Me: about/about.md
+#     #- Childhood: about/childhood.md
+#   #- Tags: tags.md
+#   - Blog:
+#     - blog/index.md
