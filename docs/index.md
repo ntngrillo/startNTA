@@ -13,7 +13,16 @@
     - sul sito github.com ti registri
     - in locale (che significa sul tuo computer) apri la CLI e crea una cartella di progetto dove vuoi!
     - inizializza la cartella in modo che sia sicronizzata con la cartella di progetto sul tuo account git.
-    - ...
+    - seguendo questi semplici comandi crei da zero il tuo nuovo progetto / repository:
+    ```bash
+    echo "# TEST" >> README.md
+    git init
+    git add README.md
+    git commit -m "first commit"
+    git branch -M main
+    git remote add origin https://github.com/IL-TUO-NOME-UTENTE/IL-NOME-DEL-TUO-PROGETTO.git
+    git push -u origin main
+    ```
 
 # TUTORIAL, GUIDE e REFERENCE
 ## Shell Commands
