@@ -25,11 +25,11 @@
 | 21 | Federico Velella       | velfederico          | [https://github.com/velfederico](https://github.com/velfederico){:target="_blank"}                   |
 | 22 | Chiara Marciano        | ChiaraMarciano       | [https://github.com/ChiaraMarciano](https://github.com/ChiaraMarciano){:target="_blank"}             |
 | 23 | Alessandra Piano       | Alesdreams           | [https://github.com/Alesdreams](https://github.com/Alesdreams){:target="_blank"}                     |
-| 24 | Fabio Maria Rotoloni   | SEENORF              | [https://github.com/SEENORF](https://github.com/SEENORF){:target="_blank"}                           |
+| 24 | Fabio Maria Rotoloni   | ~~SEENORF~~              | ~~[https://github.com/SEENORF](https://github.com/SEENORF)~~{:target="_blank"}                           |
 | 25 | Gianluigi Alibrico     | Gianluigialibrico    | [https://github.com/Gianluigialibrico](https://github.com/Gianluigialibrico){:target="_blank"}       |
 | 26 | Krystian Bogusz        | notfleex22           | [https://github.com/notfleex22](https://github.com/notfleex22){:target="_blank"}                     |
 | 27 | Chiara Langione        | chiaralangione       | [https://github.com/chiaralangione](https://github.com/chiaralangione){:target="_blank"}             |
-| 28 | Francesco E. Altobelli |  fr4nc3sco-tech      | [https://github.com/ fr4nc3sco-tech](https://github.com/ fr4nc3sco-tech){:target="_blank"}           |
+| 28 | Francesco E. Altobelli |  fr4nc3sco-tech      | [https://github.com/fr4nc3sco-tech](https://github.com/fr4nc3sco-tech){:target="_blank"}           |
 | 29 | Vincenzo De Lucia      | Vinc677              | [https://github.com/Vinc677](https://github.com/Vinc677){:target="_blank"}                           |
 | 30 | Delia Lo Turco         | Delia-LT | [https://github.com/Delia-LT](https://github.com/Delia-LT){:target="_blank"} |
 | 31 | Michela Giulietti      | giulimichelaetti     | [https://github.com/giulimichelaetti](https://github.com/giulimichelaetti){:target="_blank"}         |
@@ -37,7 +37,7 @@
 | 33 | Francesca Santin       | Francescasantin      | [https://github.com/Francescasantin](https://github.com/Francescasantin){:target="_blank"}           |
 | 34 | Scilla Di Pietro       | Scilladp             | [https://github.com/Scilladp](https://github.com/Scilladp){:target="_blank"}                         |
 | 35 | Marco Di Maiolo        | Markaarth            | [https://github.com/Markaarth](https://github.com/Markaarth){:target="_blank"}                       |
-| 36 | Giulia Pistilli        | {-- Pistilli Giulia --}      | [https://github.com/Pistilli Giulia](https://github.com/Pistilli Giulia){:target="_blank"}           |
+| 36 | Giulia Pistilli        | Pistilli Giulia      | [https://github.com/PistilliGiulia](https://github.com/PistilliGiulia){:target="_blank"}           |
 | 37 | Emanuela Giampietro        | EmaGiampi      | [https://github.com/EmaGiampi](https://github.com/EmaGiampi){:target="_blank"}           |
 | 38 | Giovanni Scotto Di Carlo        | GianniSDC     | [https://github.com/GianniSDC](https://github.com/GianniSDC){:target="_blank"}           |
-| 39 | Giada di Giovanni        | GiadaDG     | [https://github.com/GiadaDG](https://github.com/GiadaDG){:target="_blank"}           |
+| 39 | Giada di Giovanni        | ~~GiadaDG~~     | ~~[https://github.com/GiadaDG](https://github.com/GiadaDG)~~{:target="_blank"}           |
