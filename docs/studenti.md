@@ -31,7 +31,7 @@
 | 27 | Chiara Langione        | chiaralangione       | [https://github.com/chiaralangione](https://github.com/chiaralangione){:target="_blank"}             |
 | 28 | Francesco E. Altobelli |  fr4nc3sco-tech      | [https://github.com/ fr4nc3sco-tech](https://github.com/ fr4nc3sco-tech){:target="_blank"}           |
 | 29 | Vincenzo De Lucia      | Vinc677              | [https://github.com/Vinc677](https://github.com/Vinc677){:target="_blank"}                           |
-| 30 | Delia Lo Turco         | {-- [ Tortellini Viola ] --} | ~~[https://github.com/[ Tortellini Viola ]](https://github.com/[ Tortellini Viola ]){:target="_blank"}~~ |
+| 30 | Delia Lo Turco         | Delia-LT | [https://github.com/Delia-LT](https://github.com/Delia-LT){:target="_blank"} |
 | 31 | Michela Giulietti      | giulimichelaetti     | [https://github.com/giulimichelaetti](https://github.com/giulimichelaetti){:target="_blank"}         |
 | 32 | Serena Campanile       | SerenaC4             | [https://github.com/SerenaC4](https://github.com/SerenaC4){:target="_blank"}                         |
 | 33 | Francesca Santin       | Francescasantin      | [https://github.com/Francescasantin](https://github.com/Francescasantin){:target="_blank"}           |
@@ -40,3 +40,4 @@
 | 36 | Giulia Pistilli        | {-- Pistilli Giulia --}      | [https://github.com/Pistilli Giulia](https://github.com/Pistilli Giulia){:target="_blank"}           |
 | 37 | Emanuela Giampietro        | EmaGiampi      | [https://github.com/EmaGiampi](https://github.com/EmaGiampi){:target="_blank"}           |
 | 38 | Giovanni Scotto Di Carlo        | GianniSDC     | [https://github.com/GianniSDC](https://github.com/GianniSDC){:target="_blank"}           |
+| 39 | Giada di Giovanni        | GiadaDG     | [https://github.com/GiadaDG](https://github.com/GiadaDG){:target="_blank"}           |

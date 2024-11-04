@@ -1,4 +1,4 @@
-# Bio
+# La mia biografia
 
 ## Education & Research Fields
 I was born in May 1980 and graduated with honors in Industrial Design from the Luigi Vanvitelli Faculty of Architecture at the Second University of Naples. Over the years, I have developed my expertise across various sectors that integrate Binary Manufacturing, either fully or partially, within production processes.
