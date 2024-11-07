@@ -2,14 +2,14 @@
 
 | N. | NOME E COGNOME         | User gitHub          | Link gitHub                                                |Link Page               |
 | -- | ---------------------- | -------------------- | ---------------------------------------------------------- |------------------------|
-| 1  | Samuele Follera        | SamFollSF            | [https://github.com/SamFollSF](https://github.com/SamFollSF){:target="_blank"}   | [https://samfollsf.github.io/REPOSYTORY/](https://samfollsf.github.io/REPOSYTORY/)                    |
+| 1  | Samuele Follera        | SamFollSF            | [https://github.com/SamFollSF](https://github.com/SamFollSF){:target="_blank"}   | [Sito/Doc](https://samfollsf.github.io/REPOSYTORY/)                    |
 | 2  | Giordana Lo Casale     | giordanaaa           | [https://github.com/giordanaaa](https://github.com/giordanaaa){:target="_blank"}                     |
 | 3  | Giulia Genovese        | giulia-genovese      | [https://github.com/giulia-genovese](https://github.com/giulia-genovese){:target="_blank"}           |
-| 4  | Giada D'Ambrosio       | Giadadamb            | [https://github.com/Giadadamb](https://github.com/Giadadamb){:target="_blank"}                       |
+| 4  | Giada D'Ambrosio       | Giadadamb            | [https://github.com/Giadadamb](https://github.com/Giadadamb){:target="_blank"} | [Sito/Doc](https://giadadamb.github.io/nuovoprog/) |
 | 5  | Gabriella Perrucci     | Solisnoctix          | [https://github.com/Solisnoctix](https://github.com/Solisnoctix){:target="_blank"}                   |
 | 6  | Giulia Geneviève Testa | giuliagenevieve      | [https://github.com/giuliagenevieve](https://github.com/giuliagenevieve){:target="_blank"}           |
 | 7  | Cesare d'Amico         | csrdam               | [https://github.com/csrdam](https://github.com/csrdam){:target="_blank"}                             |
-| 8  | Carmine Carotenuto     | KarutoPIE            | [https://github.com/KarutoPIE](https://github.com/KarutoPIE){:target="_blank"} |[https://karutopie.github.io/PastaPatatee_website/](https://karutopie.github.io/PastaPatatee_website/)                      |
+| 8  | Carmine Carotenuto     | KarutoPIE            | [https://github.com/KarutoPIE](https://github.com/KarutoPIE){:target="_blank"} |[Sito/Doc](https://karutopie.github.io/PastaPatatee_website/)                      |
 | 9  | Maria Chimenz          | MariaChimenz         | [https://github.com/MariaChimenz](https://github.com/MariaChimenz){:target="_blank"}                 |
 | 10 | Pasquale Lappone       | Pakolapp             | [https://github.com/Pakolapp](https://github.com/Pakolapp){:target="_blank"}                         |
 | 11 | Lucia Marrandino       | luciam-hub           | [https://github.com/luciam-hub](https://github.com/luciam-hub){:target="_blank"}                   |
