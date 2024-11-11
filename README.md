@@ -1,5 +1,5 @@
 # startNTA
-![](astro.png)
+![](docs/img/astro.png)
 
 # Useful links
 
