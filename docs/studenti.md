@@ -2,9 +2,9 @@
 
 | N. | NOME E COGNOME         | User gitHub          | Link gitHub                                                |Link Page               |
 | -- | ---------------------- | -------------------- | ---------------------------------------------------------- |------------------------|
-| 1  | Samuele Follera        | SamFollSF            | [https://github.com/SamFollSF](https://github.com/SamFollSF){:target="_blank"}   | [Sito/Doc](https://samfollsf.github.io/REPOSYTORY/)                    |
+| 1  | Samuele Follera        | SamFollSF            | [https://github.com/SamFollSF](https://github.com/SamFollSF){:target="_blank"}   | [Sito/Doc](https://samfollsf.github.io/GALAXY/)                    |
 | 2  | Giordana Lo Casale     | giordanaaa           | [https://github.com/giordanaaa](https://github.com/giordanaaa){:target="_blank"}                     |
-| 3  | Giulia Genovese        | giulia-genovese      | [https://github.com/giulia-genovese](https://github.com/giulia-genovese){:target="_blank"}           |
+| 3  | Giulia Genovese        | giulia-genovese      | [https://github.com/giulia-genovese](https://github.com/giulia-genovese){:target="_blank"}           | [Sito/Doc](https://giulia-genovese.github.io/imparandomkdocs/) |
 | 4  | Giada D'Ambrosio       | Giadadamb            | [https://github.com/Giadadamb](https://github.com/Giadadamb){:target="_blank"} | [Sito/Doc](https://giadadamb.github.io/nuovoprog/) |
 | 5  | Gabriella Perrucci     | Solisnoctix          | [https://github.com/Solisnoctix](https://github.com/Solisnoctix){:target="_blank"}                   |
 | 6  | Giulia Geneviève Testa | giuliagenevieve      | [https://github.com/giuliagenevieve](https://github.com/giuliagenevieve){:target="_blank"}           |
