@@ -52,6 +52,8 @@ plugins:
   # - tags:
   #     tags_file: tags.md
   - blog:
+  - mkdocs-video:
+      is_video: True
 
 markdown_extensions:
   - pymdownx.critic
