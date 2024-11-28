@@ -54,8 +54,13 @@ plugins:
   - blog:
   - mkdocs-video:
       is_video: True
+      video_muted: True
+      video_controls: True
+      css_style:
+        width: "50%"
 
 markdown_extensions:
+  - attr_list
   - pymdownx.critic
   - pymdownx.caret
   - pymdownx.keys
