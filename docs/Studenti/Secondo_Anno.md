@@ -1,4 +1,4 @@
-# Sistemi Interattivi - Secondo Anno
+# Sistemi Interattivi
 
 | N. | NOME E COGNOME         | User gitHub          | Link gitHub                                                |Link Page               |
 | -- | ---------------------- | -------------------- | ---------------------------------------------------------- |------------------------|
