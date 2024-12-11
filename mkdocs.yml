@@ -12,7 +12,7 @@ theme:
     - scheme: default
       toggle:
         icon: material/brightness-7 
-        name: Switch to dark mode
+        name: Passa al lato Oscuro
 
     # Palette toggle for dark mode
     - scheme: slate
@@ -20,6 +20,7 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   features:
+    - navigation.instant.preview
     - header.autohide
     - navigation.instant
     - navigation.instant.progress
